@@ -1,0 +1,15 @@
+h1{
+    text-decoration: underline;font-size: 400; color: black;background-color: aqua;
+}
+.clabel{
+    color: blue;
+}
+#id{
+    color: palevioletred; font-style: normal;
+}
+.lend{
+    color: red;
+}
+h1,legend{
+    color: brown;
+}
